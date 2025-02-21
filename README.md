@@ -1,4 +1,4 @@
-# ansible_ubuntu_basic_security_config
+# ansible_ubuntu_security_config
 This simple Ansible playbook automaticaly apply basic security settings on Ubuntu hosts.
 
 The script is executed in several stages:
