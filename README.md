@@ -1,7 +1,7 @@
 # Ansible ubuntu basic security configuration
-This simple Ansible playbook automaticaly apply basic security settings on Ubuntu hosts.
+This is a very simple Ansible playbook will help you configure basic security settings on Ubuntu hosts.
 
-The script is executed in several stages:
+The playbook contains several tasks:
 
 1) Ensure UFW is installed
 2) Allow SSH through UFW
